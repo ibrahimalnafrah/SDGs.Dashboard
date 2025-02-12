@@ -10,7 +10,6 @@ This project involves the development of a dashboard to track the performance of
 - **Faculty Comparison:** Compare performance across different faculties.
 - **Historical Data:** Track progress over time with historical data visualization.
 - **User-Friendly Interface:** Easy-to-navigate interface for quick insights.
-- **Customizable Reports:** Generate custom reports based on specific SDGs or faculties.
 
 ## Getting Started
 
